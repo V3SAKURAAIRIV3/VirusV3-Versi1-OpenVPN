@@ -1,4 +1,4 @@
-
+### FREE INSTALL UNTUK ANDA SEMUANYA TERIMA KASIH
 ♦️ For Debian 10 Only Link
 
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
