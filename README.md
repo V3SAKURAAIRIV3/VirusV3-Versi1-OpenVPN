@@ -7,7 +7,7 @@
 
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 
-♦️ For Ubuntu 18.04 Link
+♦️ For Ubuntu Link
 
 <pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
 
